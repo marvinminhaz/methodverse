@@ -1,5 +1,3 @@
-from typing import Optional
-
 # INTEGERS
 integers = {
     # 1. Binary & Bitwise Operations

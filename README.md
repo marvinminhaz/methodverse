@@ -11,7 +11,7 @@ A fast, lightweight reference engine for Python built-in methods. Get quick expl
 ```text
 methodverse/
 └── python.py  # Core logic and method dictionaries (str, list, dict, etc.)
-
+```
 
 ## 🗺 The Vision
 

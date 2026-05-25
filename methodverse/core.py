@@ -261,7 +261,7 @@ def enlist(the_object: str) -> None:
 
 
 # ── EXAMPLE USAGE ─────────────────────────────────────────────────────────────
-explain('dict', 'get')        # explains the usage of dict.get() method   
-explain('dataframe', 'pop')   # 'dataframe' is not in the library → triggers not-found message
-enlist('tuple')               # Lists the two methods available on tuples: count, index
-enlist('dataframe')           # 'dataframe' is not in the library → triggers not-found message
+# explain('dict', 'get')        # explains the usage of dict.get() method   
+# explain('dataframe', 'pop')   # 'dataframe' is not in the library → triggers not-found message
+# enlist('tuple')               # Lists the two methods available on tuples: count, index
+# enlist('dataframe')           # 'dataframe' is not in the library → triggers not-found message

@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "methodverse"
+version = "1.0.0"
+description = "A quick reference tool for Python built-in methods."
+readme = "README.md"
+license = { file = "LICENSE" }
+requires-python = ">=3.10"
+authors = [{ name = "marvinminhaz", email = "marvinminhaz@outlook.com" }]
+keywords = ["python", "reference", "methods", "builtins"]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+]
